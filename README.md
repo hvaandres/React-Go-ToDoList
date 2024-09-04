@@ -1,9 +1,9 @@
 # React-Go-ToDoList
 This project is both exciting and educational as I'm new to coding with Go. The goal is to develop a todo list application, structured across three branches:
 
-Main Branch: Contains the core Go code for the basic todo list functionality.
-Dev Branch: Integrates MongoDB for persistent storage of todos, ensuring data is saved in a database.
-PRD Branch: Features a complete application with a React frontend and a Go backend, providing a graphical user interface for a more interactive experience.
+- Main Branch: Contains the core Go code for the basic todo list functionality.
+- Dev Branch: Integrates MongoDB for persistent storage of todos, ensuring data is saved in a database.
+- PRD Branch: Features a complete application with a React frontend and a Go backend, providing a graphical user interface for a more interactive experience.
 
 # How to Install Go
 - Download Go:
